@@ -16,16 +16,16 @@ Education
 
 Work experience
 ======
-* GeneCentrix Inc.
+* [GeneCentrix Inc.](https://www.genecentrix.com/)
   * Data Scientist - Capstone
     * September - December 2020
-      * Improved data gathering from biomedical texts.
-      * Developed a classification model trained on private data for Named Entity Recognition.
+      * Improved data gathering from biomedical texts such as PubMed.
+      * Utilized a classification model (BioBERT) trained on private data for Named Entity Recognition.
       * Implemented a framework to tackle automation on labelling for 10,000+ items.
       * Refined the baseline algorithm to enable Named Entity Recognition.
     * Advanced Skills: Python, NLP, Pandas, NumPy, SciSpaCy, Machine Learning, Data Analytics
 
-* New York State Department of Financial Services
+* [New York State Department of Financial Services](https://www.dfs.ny.gov/)
   * Capital Market's Analyst - Internship
     * January - May 2018
       * Created a relational database (1,500+ records) using MS Access, SQL, and Excel to store check cashing data.
