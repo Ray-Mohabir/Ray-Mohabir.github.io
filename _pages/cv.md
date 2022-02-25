@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Engineering, New York University, 2018
 * M.S. in Data Science, New York University, 2021
+* B.S. in Computer Engineering, New York University, 2018
 
 Work experience
 ======
