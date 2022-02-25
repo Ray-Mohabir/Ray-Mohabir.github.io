@@ -34,7 +34,7 @@ Work experience
       * Analyzed check cashing financial statements for profit-loss analysis
     * Advanced Skills: SQL, MS Access, MS Excel, Data Analytics
 
-[Most Recent Resume]() (Updated Oct 2021)
+[Most Recent Resume](http://ray-mohabir.github.io/files/RayMohabir_Resume.pdf) (Updated Oct 2021)
   
 
 
