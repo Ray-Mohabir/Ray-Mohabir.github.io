@@ -16,43 +16,25 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* GeneCentrix Inc.
+  * Data Scientist - Capstone
+    * September - December 2020
+      * Improved data gathering from biomedical texts.
+      * Developed a classification model trained on private data for Named Entity Recognition.
+      * Implemented a framework to tackle automation on labelling for 10,000+ items.
+      * Refined the baseline algorithm to enable Named Entity Recognition.
+    * Advanced Skills: Python, NLP, Pandas, NumPy, SciSpaCy, Machine Learning, Data Analytics
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* New York State Department of Financial Services
+  * Capital Market's Analyst - Internship
+    * January - May 2018
+      * Created a relational database (1,500+ records) using MS Access, SQL, and Excel to store check cashing data.
+      * Researched subprime auto loans in the state.
+      * Co-authored the final report regarding subprime auto loans by providing detailed data visualization charts.
+      * Analyzed check cashing financial statements for profit-loss analysis
+    * Advanced Skills: SQL, MS Access, MS Excel, Data Analytics
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+[Most Recent Resume]() (Updated Oct 2021)
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+
